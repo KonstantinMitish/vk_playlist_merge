@@ -1,0 +1,18 @@
+{
+    "step": 200,
+    "count": 30,
+    "dialog": 2000000000,
+    "result":   {
+        "owner": 1337,
+        "id": 30
+    },
+    "playlists": [
+        {
+            "owner": 1337,
+            "id": 1
+        }
+    ],
+    "users": [
+        1337
+    ]
+}

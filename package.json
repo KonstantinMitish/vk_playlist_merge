@@ -1,0 +1,16 @@
+{
+  "name": "vk_playlist_merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easyvk": "^2.8.2",
+    "lodash": "^4.17.21",
+    "readline": "^1.3.0"
+  }
+}
